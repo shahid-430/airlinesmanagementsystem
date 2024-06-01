@@ -59,7 +59,6 @@ Open a pull request.
 License
 Distributed under the MIT License. See LICENSE for more information.
 
-Contact
-Your Name - samazari113@gamil.com
+Contact- samazari113@gamil.com
 
 Project Link: https://github.com/shahid-430/airlinesmanagementsystem.git
